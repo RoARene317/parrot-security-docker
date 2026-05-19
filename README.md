@@ -1,6 +1,6 @@
 # Parrot Security Desktop on the Browser
 
-This repository contains a Docker Compose application that runs a Parrot desktop accessible through your web browser via NoVNC.
+This repository contains a Docker Compose application that runs a Parrot Security desktop accessible through your web browser via NoVNC.
 
 <img width="1920" height="1034" alt="{6E33702A-1078-454D-A07C-3DC80D1CB2A4}" src="https://github.com/user-attachments/assets/dce58ee6-6217-49e6-8bb8-4d0509edabc6" />
 
