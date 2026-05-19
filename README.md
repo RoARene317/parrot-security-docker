@@ -9,7 +9,7 @@ This repository contains a Docker Compose application that runs a Kali Linux des
 
 This Docker Compose application provides:
 
-- **Parrot Security**: A web server running NoVNC with Kali Linux Desktop environment.
+- **Parrot Security**: A web server running NoVNC with Parrot Security Mate Desktop environment.
   - Default password: `parrot`
   - Default exposed port: `8080`
 
