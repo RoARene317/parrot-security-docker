@@ -14,7 +14,7 @@ services:
       - SHELL=/bin/bash
       - PASSWORD=${PASSWORD:-parrot}
     volumes:
-      - data_parrot_htb:/home/kali/Desktop
+      - data_parrot_htb:/home/parrot/Desktop
     entrypoint: ["/bin/bash", "/startup.sh"]
 
 volumes:
