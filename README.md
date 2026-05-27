@@ -69,7 +69,7 @@ docker compose up -d
 
 ## License
 
-This Docker Compose application is released under the MIT License. See the [LICENSE](https://www.mit.edu/~amini/LICENSE.md) file for details.
+This Docker Compose application is released under the MIT License. See the file License for more information
 
 ## Disclaimer
 
